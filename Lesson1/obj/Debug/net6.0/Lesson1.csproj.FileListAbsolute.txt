@@ -1,0 +1,15 @@
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/bin/Debug/net6.0/Lesson1
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/bin/Debug/net6.0/Lesson1.deps.json
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/bin/Debug/net6.0/Lesson1.runtimeconfig.json
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/bin/Debug/net6.0/Lesson1.dll
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/bin/Debug/net6.0/ref/Lesson1.dll
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/bin/Debug/net6.0/Lesson1.pdb
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.csproj.AssemblyReference.cache
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.AssemblyInfoInputs.cache
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.AssemblyInfo.cs
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.csproj.CoreCompileInputs.cache
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.dll
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/ref/Lesson1.dll
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.pdb
+/home/neo/Documents/WelcomeCsharpLocal/Lesson1/obj/Debug/net6.0/Lesson1.genruntimeconfig.cache
