@@ -4,9 +4,9 @@
 782 -> 8
 918 -> 1 */
 
-Console.Write($"Type number: ");
-int.TryParse(Console.ReadLine(), out int num);
-Console.Write($"{num % 100 / 10}\n");
+// Console.Write($"Type number: ");
+// int.TryParse(Console.ReadLine(), out int num);
+// Console.Write($"{num % 100 / 10}\n");
 
 
 

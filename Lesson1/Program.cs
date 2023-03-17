@@ -3,14 +3,14 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-Console.Write("Type number a: ");
-int.TryParse(Console.ReadLine()!, out int numA);
-Console.Write("Type number b: ");
-int.TryParse(Console.ReadLine()!, out int numB);
-if(numA > numB)
-    Console.Write($"Max = {numA}, Min = {numB}\n");
-else
-    Console.Write($"Max = {numB}, Min = {numA}\n");
+// Console.Write("Type number a: ");
+// int.TryParse(Console.ReadLine()!, out int numA);
+// Console.Write("Type number b: ");
+// int.TryParse(Console.ReadLine()!, out int numB);
+// if(numA > numB)
+//     Console.Write($"Max = {numA}, Min = {numB}\n");
+// else
+//     Console.Write($"Max = {numB}, Min = {numA}\n");
 
 
 
@@ -72,3 +72,14 @@ else
 //             Console.Write($"{i}, ");
 //         }
 //     }
+
+int a = 16;
+int b = 5;
+if (a % b == 0)
+{
+    Console.Write($"{a} --> {b} кратно");
+}
+else
+{
+    Console.Write($"{a} --> {b} не кратно, остаток {a % b}\n");
+}
